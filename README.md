@@ -15,7 +15,8 @@
 * 这是一个纯测试环境，请随意在此仓库中创建、修改或删除文件。
 * 即使弄乱了提交历史也没关系，这正是本仓库存在的意义。
 
-## 手册网站
-https://git-scm.cn/docs/user-manual#git-quick-start
-https://www.runoob.com/git/git-tutorial.html
-https://blog.csdn.net/Javachichi/article/details/140660754
+## 📚 手册网站
+
+* [Git 官方用户手册 (中文)](https://git-scm.cn/docs/user-manual#git-quick-start)
+* [菜鸟教程 - Git 详细教程](https://www.runoob.com/git/git-tutorial.html)
+* [CSDN - Git 基础使用指南](https://blog.csdn.net/Javachichi/article/details/140660754)
